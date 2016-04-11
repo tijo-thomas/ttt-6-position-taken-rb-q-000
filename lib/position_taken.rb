@@ -4,5 +4,4 @@ def position_taken?(board, position)
   else
     true
   end
-
 end
